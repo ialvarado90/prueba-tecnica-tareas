@@ -15,6 +15,17 @@
 - Importar el collection en Postman, ubicado en la raíz del proyecto 
 - En caso tabla "users" estuviera vacía, ejecutar comando " php artisan auth:user " para crear un usuario básico con rol "Administrador"
 
+### Usuarios de Prueba
+
+Administrador
+
+User: ivan.admin@mail.com
+Pass: abc123def
+
+Usuario
+
+User: ivan.usuario@mail.com
+Pass: abc123def
 
 ### Tablas
 
@@ -72,3 +83,6 @@ En POSTMAN se tienen 2 variables de entorno {{SERVER}} y {{TOKEN}}:<br>
 
 <span style="color:red">*</span> Solo Administradores y el Usuario que creo que su propia tarea
 &nbsp;
+
+
+
